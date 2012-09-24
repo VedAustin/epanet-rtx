@@ -1,0 +1,7 @@
+<map id="RTX::ModularTimeSeries" name="RTX::ModularTimeSeries">
+<area shape="rect" id="node5" href="$class_r_t_x_1_1_curve_function.html" title="A Curve Function Class to perform arbitrary mapping of values." alt="" coords="5,161,147,189"/>
+<area shape="rect" id="node7" href="$class_r_t_x_1_1_first_derivative.html" title="RTX::FirstDerivative" alt="" coords="171,161,311,189"/>
+<area shape="rect" id="node9" href="$class_r_t_x_1_1_moving_average.html" title="RTX::MovingAverage" alt="" coords="336,161,483,189"/>
+<area shape="rect" id="node11" href="$class_r_t_x_1_1_resampler.html" title="RTX::Resampler" alt="" coords="507,161,625,189"/>
+<area shape="rect" id="node2" href="$class_r_t_x_1_1_time_series.html" title="Responsible for keeping a container of points &#45; also adding, retrieving, and getting information abou..." alt="" coords="264,6,385,34"/>
+</map>

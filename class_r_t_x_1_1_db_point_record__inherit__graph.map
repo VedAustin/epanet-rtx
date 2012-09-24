@@ -1,0 +1,5 @@
+<map id="RTX::DbPointRecord" name="RTX::DbPointRecord">
+<area shape="rect" id="node5" href="$class_r_t_x_1_1_mysql_point_record.html" title="A persistence layer for MySQL databases." alt="" coords="5,161,168,189"/>
+<area shape="rect" id="node7" href="$class_r_t_x_1_1_scada_point_record.html" title="A persistence class for SCADA databases." alt="" coords="193,161,359,189"/>
+<area shape="rect" id="node2" href="$class_r_t_x_1_1_point_record.html" title="A Point Record Class for storing and retrieving Points." alt="" coords="117,6,245,34"/>
+</map>
